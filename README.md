@@ -1,0 +1,1 @@
+This repository demonstrates a common yet tricky CSS error: using an invalid property or value. The bug.css file contains the erroneous code, causing unexpected rendering. The bugSolution.css file shows the corrected version.
