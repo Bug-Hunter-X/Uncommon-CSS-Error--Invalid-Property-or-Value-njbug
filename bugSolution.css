@@ -1,0 +1,1 @@
+The solution involves carefully checking the CSS property and value names against valid CSS specifications.  Ensure correct spelling and usage.  For example, replace `text-align: justified-left;` with `text-align: justify;` or use a supported value for the property. If using vendor prefixes, make sure they are appropriate for the target browsers and properties.
